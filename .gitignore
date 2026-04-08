@@ -1,0 +1,22 @@
+# Ignore everything in the base directory.
+/*
+
+# Unignore specific things
+!*/
+!*/*
+!/.git*
+!/[A-Z]*
+!/*.[ch]
+!/*.in
+!/*.config
+!/*.sh
+!/src
+
+# Re-ignore stuff
+*.[ao]
+*.so
+
+/bin
+/gen
+/obj
+/cross
